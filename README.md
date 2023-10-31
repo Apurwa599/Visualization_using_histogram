@@ -10,6 +10,7 @@ Histograms are a valuable tool for understanding the frequency or density of val
 The purpose of this project is to:
 
    Demonstrate the power of histograms in visually representing the distribution of data.
+   
    Showcase how histograms can reveal patterns, outliers, and insights within a dataset.
   
 
@@ -18,7 +19,9 @@ The purpose of this project is to:
 The project is organized into the following section:
 
 1.Code:- The `code` directory contains Jupyter Notebooks and Python scripts used to generate the histograms. These scripts are accompanied by explanations and comments for clarity.
+
 2.Data:- The `data` directory contains sample datasets used in the project. These datasets are provided for practice and demonstration purposes.
+
 3.Visualizations:-The `visualizations` directory holds the generated histograms in various formats (e.g., images or interactive plots).
 
 ##  Data Model
