@@ -16,7 +16,7 @@ The purpose of this project is to:
 
 ## Project Structure
 
-The project is organized into the following section:
+The project is organized into the following selection:
 
 1.Code:- The `code` directory contains Jupyter Notebooks and Python scripts used to generate the histograms. These scripts are accompanied by explanations and comments for clarity.
 
