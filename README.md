@@ -26,12 +26,11 @@ The project is organized into the following selection:
 
 3.Visualizations:-The `visualizations` directory holds the generated histograms in various formats (e.g., images or interactive plots).
 
-##  Data Model
-
-    KNeighborsClassifier
-    Logistic Regression
-    Decision Tree
-    Random forest Regression
-    Extra Tree Classifier
+## Machine Learning Model Used
+- K-Nearest Neighbors (KNN)
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Extra Trees Classifier
     
 
