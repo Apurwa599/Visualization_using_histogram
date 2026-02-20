@@ -1,10 +1,11 @@
 ## Visualization_using_histogram_and_ML_Analysis
-  In this project, Create a histogram or bar chart to visualize the distribution of data and the feature values of interest are grouped into bins, and the total number of data entries within the bins are counted, and these values represent the count.
+In this project, Create a histogram or bar chart to visualize the distribution of data and the feature values of interest are grouped into bins, and the total number of data entries within the bins are counted, and these values represent the count.
 
 ## Overview
 This project is a data visualization exploration that utilizes histograms to analyze and depict the distribution of data. 
-Histograms are a valuable tool for understanding the frequency or density of values within a dataset.
-
+Histograms are valuable tool for understanding the frequency or density of values within a dataset.
+Histograms are used as an initial step for data understanding. 
+Based on the visual insights, machine learning models are applied for further analysis and classification.
 ## Purpose
 
 The purpose of this project is to:
