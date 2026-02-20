@@ -1,4 +1,4 @@
-# Visualization_using_histogram
+## Visualization_using_histogram_and_ML_Analysis
   In this project, Create a histogram or bar chart to visualize the distribution of data and the feature values of interest are grouped into bins, and the total number of data entries within the bins are counted, and these values represent the count.
 
 ## Overview
