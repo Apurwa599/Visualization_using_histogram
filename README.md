@@ -26,11 +26,25 @@ The project is organized into the following selection:
 
 3.Visualizations:-The `visualizations` directory holds the generated histograms in various formats (e.g., images or interactive plots).
 
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## Dataset
+The project uses a structured dataset to analyze feature distribution using histograms and perform basic machine learning classification.
+
 ## Machine Learning Model Used
 - K-Nearest Neighbors (KNN)
 - Logistic Regression
 - Decision Tree
 - Random Forest
 - Extra Trees Classifier
+
+## Conclusion
+Histogram-based visualization helped in understanding feature distributions, identifying data imbalance, and detecting outliers. These insights supported effective application of machine learning models and improved overall analysis.
     
 
